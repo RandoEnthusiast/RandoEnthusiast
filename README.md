@@ -8,6 +8,7 @@ My username is/was inspired by the KH2 randomizer mod that i like to play
 At the current moment I'm working on Arena fighter (tkinter game, v.1.0.0 out in february 2026 at the latest).
 
 My second project is a game i'm still working on the story, world and characters for.
+
 ----------------------------------
 
 On top of that my next learning objectives are:
