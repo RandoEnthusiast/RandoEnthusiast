@@ -5,9 +5,9 @@ My username is/was inspired by the KH2 randomizer mod that i like to play
 
 ----------------------------------
 
-At the current moment I'm working on Arena fighter (tkinter game, v.1.0.0 out in february 2026 at the latest).
+At the current moment I'm working on a 2d remake of Arena fighter (tkinter garbage).
 
-My second project is a game i'm still working on the story, world and characters for.
+Arena Fighter (1st game project) no longer in active developement. Final release possible but not promised
 
 ----------------------------------
 
@@ -17,8 +17,7 @@ On top of that my next learning objectives are:
 
 2. learning general c++ (general language concepts, how to utilize them etc)
 
-3. learning some sort of rendering library like opengl for making my own game
-4. addition to 3. probably something simple at first, just to get how gpu pipeline is used and programmed
+3. in the future learning to implement what i know from graphics wise programming in C++
 
 -------------------------------
 
